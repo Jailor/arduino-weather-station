@@ -16,8 +16,12 @@ The weather station has the following features:
 
 
 ## Implementation and images :computer:
+
 ### Sketch
 <img src="/sketch.PNG" width="900" >
+
 ### Weather app
-<img src="/sketch.PNG" width="900" >
+<img src="/weather_app.jpg" width="400" >
+
+For more details on this project, check the pdf documentation in this repository.
 
