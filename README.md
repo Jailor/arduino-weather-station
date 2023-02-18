@@ -1,4 +1,4 @@
-# Guess the Number Game
+# Arduino Weather Station
 
 ## About :thought_balloon:
 The task was to build a wireless weather station with bluetooth capabilities
