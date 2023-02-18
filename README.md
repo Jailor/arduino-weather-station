@@ -16,9 +16,8 @@ The weather station has the following features:
 
 
 ## Implementation and images :computer:
-
-### Notable implementation details
-
-### Start
-<img src="/ss/start.PNG" width="900" >
+### Sketch
+<img src="/sketch.PNG" width="900" >
+### Weather app
+<img src="/sketch.PNG" width="900" >
 
